@@ -8,7 +8,7 @@ Gabriel Caro Esposito
  
 * This began with a comprehensive education from TripleTen that offered hands-on experience in the field, where I obtained the skills to combine analytical expertise with a strategic mindset to deliver actionable solutions. 
 
-* During the program, I worked along side tutors with BIA experience, as well as fellow students, to tackle real-world business cases. Diving deep into the skill sets for SQL, Data Visualization, Advanced Spread Sheets, and now currently Python, I was able to complete 7 projects with the accuracy to solve complex business problems, with more projects on the way.
+* During the program, I worked along side tutors with BIA experience, as well as fellow students, to tackle real-world business cases. Diving deep into the skill sets for SQL, Data Visualization, Advanced Spread Sheets, Power BI, Tableau, and now currently Python, I was able to complete 7 projects with the accuracy to solve complex business problems, with more projects on the way.
 
 --About Me--
 
