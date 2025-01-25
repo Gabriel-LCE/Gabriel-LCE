@@ -14,7 +14,7 @@ Gabriel Caro Esposito
 
 Outside of my professional pursuits, I enjoy traveling. I am currently preparing for a temporary relocation to Milan, Italy. There I will be attending a private school to challenge myself in learning a new language.
 
-In my free time, I actively do research on companies for personal investments in the New York Stock Exchange. For more than 5 years, I have been passionate about investments. Listening to Senior Stock Analysts over the years, I have learned so much about what makes a business an attractive business. Because of this, I have found an interest in being part of the changes necessary to make a business strive in this competitive economy.
+In my free time, I actively do research on companies for personal investments in the New York Stock Exchange. For more than 5 years, I have been passionate about investments. Listening to Senior Stock Analysts over the years, I have learned so much about what makes a business attractive. Because of this, I have found an interest in being part of the changes necessary to make a business strive in this competitive economy.
 
 --Reach Out--
 
